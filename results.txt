@@ -1,3 +1,4 @@
+Experiment Results:
 Epoch 1: Train Loss = 0.2439, Val Acc = 0.7130
 Epoch 2: Train Loss = 0.2384, Val Acc = 0.7391
 Epoch 3: Train Loss = 0.2421, Val Acc = 0.7130
@@ -999,3 +1000,13 @@ Epoch 998: Train Loss = 0.2384, Val Acc = 0.7217
 Epoch 999: Train Loss = 0.2588, Val Acc = 0.6609
 Epoch 1000: Train Loss = 0.2309, Val Acc = 0.7826
 Test Accuracy: 0.7328
+
+Feature Importance Results:
+Glucose: 0.1034
+BMI: 0.1034
+BloodPressure: 0.0345
+Pregnancies: 0.0172
+DiabetesPedigreeFunction: 0.0086
+SkinThickness: -0.0086
+Insulin: -0.0086
+Age: -0.0172
